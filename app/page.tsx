@@ -86,7 +86,7 @@ export default function Home() {
                 Request
               </h2>
               <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-                Looking for help and can't find it, chat with our AI and do so by doing hytrapisfdsas
+                Looking for help and can't find it, chat with our AI and do so by doing
                 
               </p>
             </div>
