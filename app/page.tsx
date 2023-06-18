@@ -74,20 +74,20 @@ export default function Home() {
           >
             <div className="w-1/2">
               <h2 className="flex items-center font-semibold text-[1em] text-[#1a2b3b]">
-                Platform
+                Talk
               </h2>
               <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-                Full access to our platform, including all questions and
-                solutions.
+                Speak with our sentient AI to help you in your
+                difficulties.
               </p>
             </div>
             <div className="w-1/2">
               <h2 className="flex items-center font-semibold text-[1em] text-[#1a2b3b]">
-                Community
+                Request
               </h2>
               <p className="text-[14px] leading-[20px] text-[#1a2b3b] font-normal">
-                Join a community of like-minded individuals, and learn from each
-                other.
+                Looking for help and can't find it, chat with our AI and do so by doing hytrapisfdsas
+                
               </p>
             </div>
           </motion.div>
